@@ -17,7 +17,7 @@ const MyPosts = (props) => {
                     <textarea></textarea>
                 </div>
                 <div>
-                    <button>Add post</button>
+                    <button>Напейсадь</button>
                 </div>
             </div>
             <div className={s.posts}>
