@@ -1,9 +1,25 @@
-.content {
-  grid-area: c;
-  background-color: cornflowerblue;
-  padding-left: 150px;
+.dialogs {
+  display: grid;
+  grid-template-columns: 4fr 10fr;
+
 }
 
-.content img {
-  width: 50px;
+.dialogItems {
+  padding: 10px;
+}
+
+.dialogItems .active {
+  color: white;
+}
+
+.dialogItems .dialog {
+
+}
+
+.messages {
+
+}
+
+.messages .message {
+
 }
